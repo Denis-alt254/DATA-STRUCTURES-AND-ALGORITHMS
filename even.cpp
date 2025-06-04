@@ -7,7 +7,9 @@ bool isEven(int n) {
 }
 
 int main() {
-    int n = 101;
+    int n;
+    cout<<"Enter the value of n = "<<endl;
+    cin>>n;
     if(isEven(n))
      	cout << "true";
   	else 
