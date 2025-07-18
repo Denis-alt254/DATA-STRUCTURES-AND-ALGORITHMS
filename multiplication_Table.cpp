@@ -1,5 +1,8 @@
 /*
 A program to print the multiplication table of a number entered
+Name: Denis Kipkurui
+Adno: BSE-05-0175/2024
+Date: 25/5/2025
 */
 
 #include <iostream>
