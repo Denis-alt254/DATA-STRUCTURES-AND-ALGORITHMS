@@ -1,4 +1,8 @@
-// A simple C++ program to check for even or odd
+/*
+A simple C++ program to check for even or odd
+Name: Denis Kipkurui
+Adno: BSE-05-0175/2024
+*/
 #include <iostream>
 using namespace std;
 
