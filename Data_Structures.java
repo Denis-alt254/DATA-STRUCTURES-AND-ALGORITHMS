@@ -1,4 +1,10 @@
-import java.util.Scanner;
+/*
+ * This is programe for arraylist Hashmap hashset linkedlist 
+ * Name: Denis Kipkurui
+ * Adno: BSE-05-0175/2024
+ */
+
+//import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
